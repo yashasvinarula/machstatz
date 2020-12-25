@@ -1,0 +1,11 @@
+.empty-list{
+    height: 400px;
+    /* margin-top: -20px; */
+    color: #eee;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.empty-list h1{
+    font-size: 4rem;
+}
